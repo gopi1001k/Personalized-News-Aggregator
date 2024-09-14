@@ -1,0 +1,14 @@
+csv
+time
+requests
+selenium
+webdriver_manager
+bs4
+datetime
+dateutil
+random
+re
+os
+spacy
+fastapi
+typing
