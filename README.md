@@ -112,6 +112,12 @@ curl -X GET "http://127.0.0.1:8000/search?keyword=climate"
   ```bash
   https://drive.google.com/file/d/1oaWsy1wsqeoPvw7zhojcVsivqGr4b33F/view?usp=sharing
   ```
+## Documentation
+
+- Checkout the entire documentation of the project included in the following file
+  ```bash
+  Personalized News Aggregator.pdf
+  ```
 ## Postman Collection
 
 - A Postman collection for testing the API is included in the repository as postman_collection.json.
