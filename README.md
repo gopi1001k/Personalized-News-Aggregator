@@ -107,7 +107,11 @@ curl -X GET "http://127.0.0.1:8000/search?keyword=climate"
 ```
 ## Screenshots and Videos
 
-- Screenshots and a video of the working API endpoints are included in the **screenshots** and **video** folders in this repository.
+- Screenshots and video of the working API endpoints are included in the **screenshots** and **video** folders.
+- You can also checkout video of the working API endpoints is included in the below drive link:
+  ```bash
+  https://drive.google.com/file/d/1oaWsy1wsqeoPvw7zhojcVsivqGr4b33F/view?usp=sharing
+  ```
 ## Postman Collection
 
 - A Postman collection for testing the API is included in the repository as postman_collection.json.
